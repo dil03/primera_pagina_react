@@ -1,0 +1,30 @@
+*{
+  margin: auto;
+}
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: white;  
+  display: flex;
+}
+.titul{
+  margin: 0px;
+  padding: 100px;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+
+  
+}
+.mount{
+  text-align: center;
+  position: relative;
+  top: -60px;
+  font-size: 45px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.titul_casc{
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+}

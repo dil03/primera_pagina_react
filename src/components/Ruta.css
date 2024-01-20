@@ -1,0 +1,48 @@
+.part_ruta{
+    padding: 5rem 7rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(22rem,1fr));
+    gap: 3rem 1rem;
+    box-sizing: border-box;
+    position: relative;
+    top: -120px;
+}
+.imagen_rut{
+    width: 300px;
+    height: auto;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 1px 5px 10px 2px black;
+    border: 6px solid transparent;
+    border-radius: 5px;
+}
+.h3_r{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.h3_ru{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+a:hover{
+    background: none;
+    transition: 0.21s;
+}
+@media screen and (max-width: 768px) {
+    .img_rut {
+        max-width: 80%;
+    }
+   
+}
+
+@media screen and (max-width: 480px) {
+    .img_rut {
+        max-width: 100%;
+    }
+   
+}

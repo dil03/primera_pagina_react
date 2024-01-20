@@ -1,0 +1,31 @@
+
+.header{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    text-align: center;
+    display: flex;
+   
+}
+nav>ul{
+    display: inline-flex;
+    gap: 50px;
+    padding: 10px;  
+}
+.a_navee{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    font-size: 25px;
+    border-radius: 10px;
+    
+}
+.a_navee:hover{
+    background-color: red;
+    transition: 0.21s;
+}
+.logo{
+    position: relative;
+    top: 3px;
+}
