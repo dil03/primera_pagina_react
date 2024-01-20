@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/primera_pagina_react/static/css/main.87663544.css",
+    "main.js": "/primera_pagina_react/static/js/main.e9e710d3.js",
+    "static/media/specsl6disccomp.png": "/primera_pagina_react/static/media/specsl6disccomp.b1321e67d2054824bf3d.png",
+    "static/media/specsl6discexpert.png": "/primera_pagina_react/static/media/specsl6discexpert.c5cd93c9b72c57350bfb.png",
+    "static/media/epicevoexpert.png": "/primera_pagina_react/static/media/epicevoexpert.483bf82148d432e5181c.png",
+    "static/media/epicexpert.png": "/primera_pagina_react/static/media/epicexpert.0e3896cb316786efc21c.png",
+    "static/media/sl8.jpg": "/primera_pagina_react/static/media/sl8.d57adf85eac548ecd13c.jpg",
+    "static/media/epicaxs.png": "/primera_pagina_react/static/media/epicaxs.95ac7e168d258dedfedd.png",
+    "static/media/specrou.png": "/primera_pagina_react/static/media/specrou.1f9ff13bda2de50855e4.png",
+    "static/media/epic2022.png": "/primera_pagina_react/static/media/epic2022.328579ff055ca21224f3.png",
+    "static/media/specallexelite.png": "/primera_pagina_react/static/media/specallexelite.a54cd97204c27919d3f2.png",
+    "static/media/sl8nu.png": "/primera_pagina_react/static/media/sl8nu.310dedd779d8dbcda262.png",
+    "static/media/epic2021.png": "/primera_pagina_react/static/media/epic2021.105262792db689253d4d.png",
+    "static/media/epic2023.png": "/primera_pagina_react/static/media/epic2023.3d1cd59385ea6f94d2c6.png",
+    "static/media/zapatilla.png": "/primera_pagina_react/static/media/zapatilla.efef7555927b8cb3d56b.png",
+    "static/media/zapatillamount.png": "/primera_pagina_react/static/media/zapatillamount.7f4b109f4ecaec9e44a5.png",
+    "static/media/casco.png": "/primera_pagina_react/static/media/casco.9ad45044d74e83a628b2.png",
+    "static/media/cascoevade3.png": "/primera_pagina_react/static/media/cascoevade3.f0d21ec14677b21c4528.png",
+    "static/media/specsl7pro.png": "/primera_pagina_react/static/media/specsl7pro.88bf01252c43a54c9b56.png",
+    "static/media/zapatillamount2.png": "/primera_pagina_react/static/media/zapatillamount2.e77f4863e52d75f98ea3.png",
+    "static/media/propero3.png": "/primera_pagina_react/static/media/propero3.71bca3850af0ee219403.png",
+    "static/media/prevail3.png": "/primera_pagina_react/static/media/prevail3.458b42ea24fd8e49097e.png",
+    "static/media/zapatillaruta.png": "/primera_pagina_react/static/media/zapatillaruta.5d4fec3bd576eaf694aa.png",
+    "index.html": "/primera_pagina_react/index.html",
+    "main.87663544.css.map": "/primera_pagina_react/static/css/main.87663544.css.map",
+    "main.e9e710d3.js.map": "/primera_pagina_react/static/js/main.e9e710d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87663544.css",
+    "static/js/main.e9e710d3.js"
+  ]
+}
